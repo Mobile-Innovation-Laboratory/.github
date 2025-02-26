@@ -14,10 +14,10 @@ Untuk pengumpulan Tugas Besar, harap ikuti petunjuk berikut untuk mengumpulkan t
 1. **Buat Repository**:  
    Buat repositori baru dengan format penamaan sebagai berikut:  
    `divisi_nama_nama-aplikasi`  
-   Contoh: `Flutter_JohnDoe_SuperApp` 🎯
+   Contoh: `Flutter_JohnDoe_SuperApp` 
 
 2. **Push Proyek ke Repository**:  
-   Setelah membuat proyek, push repositori ke GitHub. 🔼
+   Setelah membuat proyek, push repositori ke GitHub. 
 
 3. **Buat `README.md`**:  
    Jangan lupa untuk membuat file `README.md` yang berisi penjelasan aplikasi Anda, fitur-fitur yang ada, cara instalasi, cara menggunakan aplikasi, dan informasi relevan lainnya.
